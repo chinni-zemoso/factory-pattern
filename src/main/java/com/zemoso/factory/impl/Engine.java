@@ -1,7 +1,7 @@
 package com.zemoso.factory.impl;
 
 public class Engine {
-	private String power;
+	private final String power;
 
 	public Engine(String power) {
 		this.power = power;
