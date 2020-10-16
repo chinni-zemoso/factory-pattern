@@ -1,6 +1,5 @@
-package com.zemoso.factory.impl;
+package com.zemoso.car_factory.factory.impl;
 
-import com.zemoso.test.Customer1;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

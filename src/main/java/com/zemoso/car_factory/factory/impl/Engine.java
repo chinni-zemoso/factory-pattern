@@ -1,4 +1,4 @@
-package com.zemoso.factory.impl;
+package com.zemoso.car_factory.factory.impl;
 
 public class Engine {
 	private final String power;

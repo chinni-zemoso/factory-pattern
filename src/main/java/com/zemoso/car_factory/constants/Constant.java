@@ -1,4 +1,4 @@
-package com.zemoso.constants;
+package com.zemoso.car_factory.constants;
 
 public class Constant {
     public static final String SPORTS_CAR ="sportsCar" ;
